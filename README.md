@@ -2,8 +2,8 @@
 Prjoct for creating a rock, papper, and scissor classifier
 
 # Framework use 
-tensorflow
-sklearn 
-opencv
+- tensorflow
+- sklearn 
+- opencv
 
 
